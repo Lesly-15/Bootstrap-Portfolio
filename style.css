@@ -1,0 +1,36 @@
+body {
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/congruent_pentagon.png")
+}
+
+#myname {
+    
+    font-weight: bold;
+    margin: 15px 25px;
+    float: left;
+}
+
+#mynavbar {
+
+    float: right;
+}
+
+#navbtns{
+    font-style: italic;
+    cursor: pointer;
+    color: teal;
+
+}
+
+#titles {
+    font-weight: bold;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+}
+
+#subbtn {
+    background-color:teal;
+    border-color: white;
+}
